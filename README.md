@@ -4,7 +4,7 @@
 
 I spent time at first, writing my "About Me" and organizing my thoughts there.  After I did that, I used Bootstrap to pull in my NavBar and edited the "nav-items" to show the "About", "Contact", and "Portfolio" buttons.  Once all of that was edited, I changed the background color to match the first HW assignment.
 
-I then edited the colors of the NavBar to match the parameters from the first homework assignment.  I used the bootstrap grid to set columns for my images and text.  I do need to spend some extra time reviewing how to wrap the text under the bottom image.  Resizing my images, and having to use CSS animations to rotate them felt kinda new, but once I got some guidance, it ended up being very useful. Keeping the 
+I then edited the colors of the NavBar to match the parameters from the first homework assignment.  I used the bootstrap grid to set columns for my images and text.  I do need to spend some extra time reviewing how to wrap the text under the bottom image.  Resizing my images, and having to use CSS animations to rotate them felt kinda new, but once I got some guidance, it ended up being very useful.  
 
 ## Portfolio
 
