@@ -1,4 +1,21 @@
-
+#ProfileImage{
+    transform: rotate(90deg);
     
+   
+    
+    
+}
+#DogImage{
+    transform: rotate(90deg);
+   
+    
+}
+.image-container{
+    overflow: hidden; 
+}
 
 
+.text-container{
+    flex-wrap: wrap;
+
+}
